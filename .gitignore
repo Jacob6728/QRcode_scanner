@@ -1,0 +1,64 @@
+
+# ==========================================
+# PYTHON CACHE FILES
+# ==========================================
+
+# Ignore Python-generated cache folders
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+
+# ==========================================
+# VIRTUAL ENVIRONMENTS
+# ==========================================
+
+# Ignore locally installed Python packages
+venv/
+.venv/
+env/
+
+
+# ==========================================
+# DEVELOPMENT ENVIRONMENTS
+# ==========================================
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore PyCharm project settings
+.idea/
+
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows thumbnail files
+Thumbs.db
+
+
+# ==========================================
+# ENVIRONMENT VARIABLES
+# ==========================================
+
+# Ignore files containing private settings
+.env
+.env.*
+
+
+# ==========================================
+# LOGS AND TEMPORARY FILES
+# ==========================================
+
+# Ignore application log files
+*.log
+
+# Ignore temporary files
+*.tmp
